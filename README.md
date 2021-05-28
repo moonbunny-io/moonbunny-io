@@ -2,7 +2,7 @@
 - 👀 I’m interested in going to the moon
 - 🌱 I’m currently learning to fly
 - 💞️ I’m looking to collaborate on moon landing
-- 📫 How to reach me www.moonbunny.io
+- 📫 How to reach me www.moonbunny.io https://twitter.com/moonbunnytoken
 
 <!---
 moonbunny-io/moonbunny-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
